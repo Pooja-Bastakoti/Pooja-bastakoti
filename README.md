@@ -1,4 +1,4 @@
-# Hello, I'm [Pooja Bastakoti] 👋  
+# Hello, I'm Pooja Bastakoti 👋  
 <a href="https://linkedin.com/in/poojabastakoti/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
