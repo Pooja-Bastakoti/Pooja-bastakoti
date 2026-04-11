@@ -15,19 +15,6 @@ My goal is to grow into a well-rounded cybersecurity professional with skills in
 
 ---
 
-## 🛠️ Skills
-
-| Skill                                             | Associated Project |
-|--------------------------------------------------|------------------|
-| Network Security Fundamentals                     | <a href="#">Coming Soon</a> |
-| Basic Vulnerability Assessment                    | <a href="#">Coming Soon</a> |
-| Cybersecurity Research & Analysis                 | <a href="#">Academic Work</a> |
-| Linux & Command Line Basics                       | <a href="#">Practice Labs</a> |
-| Introduction to Penetration Testing               | <a href="#">Learning Phase</a> |
-| Cloud Security Fundamentals (AWS basics)    | <a href="#">Learning Phase</a> |
-
----
-
 ## 🧰 Tools
 
 ### 🔐 Security & Networking
@@ -45,15 +32,6 @@ My goal is to grow into a well-rounded cybersecurity professional with skills in
 ### ☁️ Cloud (Learning)
 <div>
   <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</div>
-
----
-
-## 📜 Certifications (Planned / In Progress)
-<div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ---
@@ -65,8 +43,7 @@ My goal is to grow into a well-rounded cybersecurity professional with skills in
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/poojabastakoti  
+## 📫 Connect with Me 
 - Email: poozabastakoti7@gmail.com
 
 ---
