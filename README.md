@@ -4,14 +4,14 @@
 </a>
 
 ## 👩‍💻 About Me
-I am an ICT student specializing in **cybersecurity research**, with a strong curiosity for understanding how systems work and how they can be secured. I enjoy exploring real-world security challenges and continuously improving my technical skills.
+I am an ICT student specializing in **cybersecurity research**, with a strong curiosity for understanding how systems work and how they can be secured. I enjoy exploring real-world security challenges and continuously improving my technical skills. I bring 4+ years of experience in software testing.
 
 I am currently building a foundation in **penetration testing** and **cloud security**, aiming to develop hands-on expertise in both offensive and defensive security.
 
 ---
 
 ## 🎯 Objective
-My goal is to grow into a well-rounded cybersecurity professional with skills in **penetration testing, cloud security, and threat analysis**. I am actively working toward gaining practical experience and eventually contributing to securing modern cloud-based systems.
+My goal is to grow into a well-rounded cybersecurity professional with skills in **penetration testing, cloud security, and threat analysis**. I am actively working toward gaining practical experience and eventually contributing to securing modern cloud-based systems. 
 
 ---
 
