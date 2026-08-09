@@ -62,23 +62,6 @@ My goal is to grow into a well-rounded cybersecurity professional with skills in
   <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </div>
 
-### 🔐 Security & Networking
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logoColor=white" />
-</div>
-
-### 💻 Operating Systems & Platforms
-<div>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-### ☁️ Cloud (Learning)
-<div>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
-
 ---
 
 ## 🚀 Projects
